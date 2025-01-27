@@ -1,0 +1,25 @@
+---
+title: Train of thoughts
+description: By Steve
+---
+Train of thoughts. Existence and extinction. Are we the only species on this planet that worry about death and afterlife? What makes us more human and different from other animals? On the other thought, why do we mark us a human and separate from other lives on this planet? We are not privileged species and we should be treated equally among others. Not to mention that we are so divided among ourselves.
+
+The world itself is eventually going to be doomed, most likely by humans rather than extraterrestrial factors. Looking back at our history, were most disasters manmade or natural? Among those manmade disasters, are most of them due to our curiosity or cruelty?
+
+Humanity has a unique dualism. Our curiosity helps us evolving but also lures us to open the Pandora box. If we treat the invention of atomic bomb as the most demonic invention in the past century and make Oppenheimer as one of the most controversial figures, simply out of the fear of uncontrollable power that it might release and create detrimental result on us, is population explosion in the recent decades the other extreme of this issue? Uncontrolled population explosion is another atomic bomb to the ecosystem and detrimental threat to other species. What makes us saying right and wrong on our doings and who is the one judging our collaborative decisions?
+
+What I believe is that most of us are just ordinary, mediocre persons who are naturally lazy in the comfort zones of their lives and works. They are easily distracted, satisfied, irritated and frustrated by moments of happiness and sorrow. Those emotions often exist momentarily and activated within their short span of attention.
+
+We had created remarkable and diverse cultures in the process of revolution, what makes country leaders decide to polarise opinion and encourage polarisation of our beliefs and religions? That sounds like a paradox: we create diversity but want to destroy them at the same time. There is a trend of more ups and downs happening more frequently in recent years. Regional wars that threaten generation by generation; big companies abuse labours while making tons of profits for the rest of populations. News are less relevant nowadays comparing to decades ago but because of the rise of internet we have the privilege to access on what’s happening more instantly then ever. Could this be a bad thing? The cult of productivity is bringing us unnecessary attention to everything that tries to catch our attention every second of being awake. Too much negative news cause disaster fatigue, too much positive news did the same negative effect on the other hand, it creates toxic positivity that makes us delusional and bipolar.  On global scale the world is becoming a better place but on locale level our lives are getting busier without any good reasons.
+
+A friend of mine noted these words down and shared with me days ago on the trend in FMCG (fast-moving comment goods) industry:
+
+> I think we have a fetishised view of efficiency, describing what we might call the ‘cult of efficiency’. Our consumer decisions usually revolve around the cheapest fastest and most convenient way of acquiring goods, think about E-commerce. I think it’s partially a result of being demanded to live quickly (fast-paced work environments). The entirety of UX design is based upon this cult of efficiency, erasing pain points, removing blockers and bottlenecks. I think even with sustainable design as we know it, we’re still trying to always maintain this  efficiency as a part of our process with very little compromise.
+
+Our lives will be most likely become very pathetic if you decided to work for someone for the whole life. At some point you need to be own boss to own a business, whether big or small. Speaking of starting a business, how many business owners put environmental and sustainability concern at the very beginning of their expansion? After years of advocating the important of sustainability, we are still prone to make decision that will generate revenue in shortest among of time and lightest consumption of resources while ignoring [green premium](https://breakthroughenergy.org/our-approach/the-green-premium/) as much as we could.
+
+Consumerism is one of the biggest culprits behind this. Fashion items come at an astonishing and unprecendented speed that never happened before. People are brainwashed by commercials and possessed with illusions that they actually need so many things businesses tell them so. After years of depleting resources we start to see how environment repay us back with more extreme weather and natural disasters. Again are these natural disasters really **natural**? Or they are more like human induced result?
+
+---
+
+*Original post [here](https://blog.imwiththou.com/posts/train-of-thoughts).*

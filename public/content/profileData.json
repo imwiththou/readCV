@@ -1,0 +1,1128 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "stevewang",
+    "displayName": "Steve",
+    "profession": "Product Designer",
+    "location": "Singapore",
+    "pronouns": null,
+    "byline": "Product Designer in Singapore",
+    "website": "imwiththou.com",
+    "websiteURL": "http://imwiththou.com",
+    "about": "💻🤖👨‍💻📱🗣",
+    "status": {
+      "text": "Aesthetics, details, efficiency, functionality, simplification.",
+      "emoji": "🤔",
+      "timestamp": "2024-06-06T16:31:22.902Z"
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Features",
+      "Work Experience",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Awards",
+      "Writing",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "0RmxenVminkWJsBsz36Q",
+      "year": "2024",
+      "heading": "OCBC Design System at OCBC Bank",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "project",
+      "title": "OCBC Design System",
+      "company": "OCBC Bank"
+    },
+    {
+      "id": "WO90bYJeRldQ7FHmbeAe",
+      "year": "2023",
+      "heading": "United Design System at UOB",
+      "url": null,
+      "collaborators": [
+        {
+          "displayName": "Tien Vi",
+          "profilePhoto": "/content/collaborators/tien.jpg",
+          "profileURL": "https://read.cv/tien"
+        },
+        {
+          "displayName": "Natasha",
+          "profilePhoto": null,
+          "profileURL": "https://read.cv/knaat"
+        }
+      ],
+      "description": "We are proud to introduce the United Design System (UDS), a design system that unifies and harmonises the user experience across all UOB digital platforms. UDS is the result of the Project Unity initiative that we launched in 2021, which aimed to consolidate and streamline seven different design systems that were used for various regions and projects. UDS is not just a collection of UI components, but a comprehensive product that guides our design principles, processes and best practices. UDS has gone through several iterations, starting from a basic MVP version in 2021 to a more refined and robust version nowadays. UDS is one of the most important piece of works from our UOB TMRW designOps team, as it enables us to deliver consistent, efficient and delightful digital banking experiences to our customers.",
+      "attachments": [],
+      "type": "project",
+      "title": "United Design System",
+      "company": "UOB"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "F4xZHQSDelSvQQA8vFeH",
+      "year": "Ongoing",
+      "heading": "Paper and Pain, Season 2",
+      "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+      "collaborators": [
+        {
+          "displayName": "Kristian Mikhel",
+          "profilePhoto": "/content/collaborators/kotsky.jpg",
+          "profileURL": "https://read.cv/kotsky"
+        }
+      ],
+      "description": "After months of planning and production, Paper and Pain is back with more design rants, plenty of interviews with fantastic people, and some unusual takes.\n\nMe and Kris may not be recording in our living rooms any longer, but our bond is as strong as ever, and so is our passion for good design and dedication to our craft. Our inspiration for this season comes from the ground, where our dearest colleagues, peers, friends battle burnout, lack of creativity, toxic work environment, and frustration. In this season, we wanted to inspire you to seek things that bring you joy, to encourage you to take brave steps and venture into the unknown, to remind you that you are not alone on this path.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 3000,
+          "url": "/content/media/Paper-and-Pain-Season-2.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Paper and Pain, Season 2",
+      "company": ""
+    },
+    {
+      "id": "nBvVH3xosBBSjRKQm3gK",
+      "year": "Ongoing",
+      "heading": "Design system field notes",
+      "url": "https://t.me/+1HJ5GO2IDzFlYWM1",
+      "collaborators": [],
+      "description": "Design system field notes is a Telegram public channel that serves as:\n\n* a repository for knowledge sharing\n\n* a space for idea generation and resource\n\n* a digital notebook contains almost anything related to design system",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Design system field notes",
+      "company": ""
+    },
+    {
+      "id": "0pcApXcMIQLJbmdNDdZQ",
+      "year": "2024",
+      "heading": "Paper Cuts by Paper and Pain",
+      "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+      "collaborators": [
+        {
+          "displayName": "Kristian Mikhel",
+          "profilePhoto": "/content/collaborators/kotsky.jpg",
+          "profileURL": "https://read.cv/kotsky"
+        }
+      ],
+      "description": "Following by our design podcast “[Paper and Pain](https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703)” debuted in 2023, we kicked off the second season with a bit collaboration from the founder of Singapore Product Design community, [Leonard Reese](https://www.linkedin.com/in/leonard-reese). This livestream happens on every other Monday at 8pm SGT on [Singapore Product Design discord server](https://discord.gg/zTuaqcRC?event=1221950983005929573).",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Paper Cuts by Paper and Pain",
+      "company": ""
+    },
+    {
+      "id": "n5GFdsxjBNrGZKNVITdO",
+      "year": "2023",
+      "heading": "A space for brain dump",
+      "url": "https://blog.imwiththou.com/",
+      "collaborators": [],
+      "description": "First time trying doing some front end developing with recent-acquired knowledge in next.js, Tailwind CSS and GIT system. It’s still pretty much on trials and errors but as a eager learner I’m quite passionate to see it’s getting better day by day.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 5000,
+          "height": 3750,
+          "url": "/content/media/A-space-for-brain-dump.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "A space for brain dump",
+      "company": ""
+    },
+    {
+      "id": "Idh5vEF1eMWkUXsfdgu9",
+      "year": "2023",
+      "heading": "Paper and Pain, Season 1",
+      "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+      "collaborators": [
+        {
+          "displayName": "Kristian Mikhel",
+          "profilePhoto": "/content/collaborators/kotsky.jpg",
+          "profileURL": "https://read.cv/kotsky"
+        }
+      ],
+      "description": "Paper and Pain is a podcast channel for product designers who want to learn more about the industry in Singapore, Southeast Asia and globally. Hosted by Steve and Kris, two product designers based in Singapore, the podcast covers topics such as design trends, challenges, opportunities, and best practices in the industry. Paper and Pain aims to inspire and empower designers to design better products for the world.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2500,
+          "height": 2500,
+          "url": "/content/media/Paper-and-Pain-Season-1.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Paper and Pain, Season 1",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "C86MTFDCuoWjmGv973vZ",
+      "year": "2023",
+      "heading": "How Composable Technology Can Reshape the Way We Think About Design in the Future, Medium",
+      "url": "https://medium.com/design-note/how-composable-technology-can-reshape-the-way-we-think-about-design-in-the-future-c924a2bba32c",
+      "collaborators": [],
+      "description": "Composable technology is an exciting trend that has the potential to transform how we create and use software in the future. It offers many advantages for businesses that want to stay ahead of the competition and deliver value to their customers.",
+      "attachments": [],
+      "type": "writing",
+      "title": "How Composable Technology Can Reshape the Way We Think About Design in the Future",
+      "publisher": "Medium"
+    },
+    {
+      "id": "aShaurSsJirkl7NgA9S5",
+      "year": "2021",
+      "heading": "Be Aware of Aesthetic-Usability Effect in User Research, Medium",
+      "url": "https://medium.com/aleph-universe/be-aware-of-aesthetic-usability-effect-in-user-research-ac4c93193089",
+      "collaborators": [],
+      "description": "The aesthetic-usability effect reveals how attractive design influences perceived ease of use, requiring careful consideration during user research to prevent masking usability issues while emphasizing the importance of incorporating humor and playfulness for an enjoyable user experience and increased engagement.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Be Aware of Aesthetic-Usability Effect in User Research",
+      "publisher": "Medium"
+    },
+    {
+      "id": "2iMvl5eRghP99k7S6DaW",
+      "year": "2021",
+      "heading": "ROI and UX Research: How can we measure it?, Medium",
+      "url": "https://medium.com/aleph-universe/roi-and-ux-research-how-can-we-measure-it-295b82b44eea",
+      "collaborators": [],
+      "description": "UX research, when executed effectively, can save costs and time while demonstrating business goals through various ROI aspects, such as impact, perception, and retention; maintaining records of past findings and issues is crucial, and ROI calculations should be considered estimates, not predictions.",
+      "attachments": [],
+      "type": "writing",
+      "title": "ROI and UX Research: How can we measure it?",
+      "publisher": "Medium"
+    },
+    {
+      "id": "iutV8uKTsFnflAbwQiTp",
+      "year": "2019",
+      "heading": "The Magic of Zero Inbox, Medium",
+      "url": "https://imwiththou.medium.com/the-magic-of-zero-inbox-c909ea780414",
+      "collaborators": [],
+      "description": "Trust this: a beautiful day is always ended with zero inbox.",
+      "attachments": [],
+      "type": "writing",
+      "title": "The Magic of Zero Inbox",
+      "publisher": "Medium"
+    },
+    {
+      "id": "DMTaRKSkSAztt2wPQwKB",
+      "year": "2019",
+      "heading": "Say Goodbye to Credit Cards, Medium",
+      "url": "https://imwiththou.medium.com/say-goodbye-to-credit-cards-18368f21bef7",
+      "collaborators": [],
+      "description": "Welcome to the new age of financial minimalism.",
+      "attachments": [],
+      "type": "writing",
+      "title": "Say Goodbye to Credit Cards",
+      "publisher": "Medium"
+    }
+  ],
+  "awards": [
+    {
+      "id": "4MoIwjaSUAATWr05P9KL",
+      "year": "2023",
+      "heading": "Experience design team logo hackathon from UOB Experience Design Team",
+      "url": null,
+      "collaborators": [
+        {
+          "displayName": "Bavani",
+          "profilePhoto": "/content/collaborators/bavanikathirvailu.jpg",
+          "profileURL": "https://read.cv/bavanikathirvailu"
+        },
+        {
+          "displayName": "golansa",
+          "profilePhoto": "/content/collaborators/oshki.jpg",
+          "profileURL": "https://read.cv/oshki"
+        },
+        {
+          "displayName": "Tien Vi",
+          "profilePhoto": "/content/collaborators/tien.jpg",
+          "profileURL": "https://read.cv/tien"
+        },
+        {
+          "displayName": "Natasha",
+          "profilePhoto": null,
+          "profileURL": "https://read.cv/knaat"
+        }
+      ],
+      "description": "In this 40-min design hackathon the team were tasked to create a logo and design for tumbler and tote bag that will be used for new joint onboarding gifts. The challenge about the task was not just time but also remote collaboration, as our design work were purely done with remote features by FigJam.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Experience-design-team-logo-hackathon-from-UOB-Experience-Design-Team-1.png"
+        },
+        {
+          "type": "image",
+          "width": 3000,
+          "height": 2000,
+          "url": "/content/media/Experience-design-team-logo-hackathon-from-UOB-Experience-Design-Team-2.png"
+        }
+      ],
+      "type": "award",
+      "title": "Experience design team logo hackathon",
+      "presenter": "UOB Experience Design Team"
+    },
+    {
+      "id": "Ar9OyMWocDtbH2Nyvktd",
+      "year": "2023",
+      "heading": "TMRW Design Challenge from UOB Design Team",
+      "url": null,
+      "collaborators": [
+        {
+          "displayName": "Tien Vi",
+          "profilePhoto": "/content/collaborators/tien.jpg",
+          "profileURL": "https://read.cv/tien"
+        }
+      ],
+      "description": "In a fun design challenge, our team made up with two other designers to brainstorm and prototype a loader animation for TMRW app in 20 minutes, winning the highest vote among eight teams and establishing the art direction for future interactions within the app.",
+      "attachments": [],
+      "type": "award",
+      "title": "TMRW Design Challenge",
+      "presenter": "UOB Design Team"
+    }
+  ],
+  "features": [
+    {
+      "id": "adnchZRtJJWqlXyohXC6",
+      "year": "2023",
+      "heading": "Featured Dwelling on Dwelling",
+      "url": "https://dwelling.love/p/193",
+      "collaborators": [],
+      "description": null,
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4451,
+          "height": 3338,
+          "url": "/content/media/Featured-Dwelling-on-Dwelling.jpg"
+        }
+      ],
+      "type": "feature",
+      "title": "Featured Dwelling",
+      "publisher": "Dwelling"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "yJpP6f6qrAafucJi5g02",
+      "year": "2023 — Now",
+      "heading": "Design System Manager, Asst. Vice President at OCBC Bank",
+      "url": "http://www.ocbc.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Design System Manager, Asst. Vice President",
+      "company": "OCBC Bank",
+      "location": "Singapore"
+    },
+    {
+      "id": "a3hy2bbdatEecDYexubR",
+      "year": "2020 — 2023",
+      "heading": "Product Designer at Aleph Labs",
+      "url": "http://www.aleph-labs.com",
+      "collaborators": [],
+      "description": "I collaborated with the UOB product team to design and deliver the UOB Mighty application, focusing on the design language system, customer onboarding, and Merchant Customer Loyalty Program. I conducted UX research and designed the service blueprint for staff-assisted customer onboarding journeys. Additionally, I facilitated design workshops with the country business team using various design thinking techniques, designed prototypes, and participated in usability testing. I also crafted components, tokens, and patterns to build the United Design System (UDS) for UOB TMRW app in multiple Southeast Asian regions.\n\n*Aleph Labs is part of AKQA Group: https://www.akqa.com/group/",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Aleph Labs",
+      "location": "Singapore"
+    },
+    {
+      "id": "GXa1HAfz8mLGHJTATxQu",
+      "year": "2020 — 2020",
+      "heading": "Product Designer at Shopee",
+      "url": "http://shopee.com",
+      "collaborators": [],
+      "description": "I led the product design process for an e-commerce platform serving local markets in South East Asia, Taiwan, and Brazil. I collaborated with various teams to design products from ideation to launch, developing clear and effective user interfaces to achieve product and business goals. I designed products systematically, evaluated work with data, and maintained visual and UX patterns for a consistent and intuitive experience.\n\nhttps://medium.com/shopee",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Shopee",
+      "location": "Singapore"
+    },
+    {
+      "id": "qpNfLWMWfgi1iucykLYF",
+      "year": "2016 — 2020",
+      "heading": "Process System Designing Engineer at Exyte",
+      "url": "https://www.exyte.net/",
+      "collaborators": [],
+      "description": "I designed manufacturing process systems for various pharmaceutical multinational corporations. I led a team in incorporating new technologies in building information modelling and virtual design and construction for an old project. I managed a 16-million industrial process system from its design to tender, construction, installation, and commissioning.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Process System Designing Engineer",
+      "company": "Exyte",
+      "location": "Singapore"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "ieqv9VAmC4psd37HODtj",
+      "year": "2023 — Now",
+      "heading": "Community Leader at Friends of Figma",
+      "url": "https://www.figma.com/@imwiththou",
+      "collaborators": [],
+      "description": "\"Friends of Figma\" is a community of users who are passionate about Figma, a popular design tool used by designers, developers, and product teams. As a community advocate, my role is to act as a liaison between the Figma team and the community, helping to build a vibrant and engaged community of users.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1600,
+          "url": "/content/media/Community-Leader-at-Friends-of-Figma-7.jpg"
+        }
+      ],
+      "type": "volunteering",
+      "title": "Community Leader",
+      "organization": "Friends of Figma",
+      "location": "Singapore"
+    }
+  ],
+  "education": [
+    {
+      "id": "YvCLABLYEMmiMxe3lGMZ",
+      "year": "2012 — 2016",
+      "heading": "Bachelor of Engineering, Bioengineering at Nanyang Technological University",
+      "url": "http://www.ntu.edu.sg",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Engineering, Bioengineering",
+      "school": "Nanyang Technological University",
+      "location": "Singapore"
+    },
+    {
+      "id": "kM4yAeHnswFxjK82byhd",
+      "year": "2015 — 2015",
+      "heading": "Summer Exchange Programme at University of California, Los Angeles",
+      "url": "http://www.ucla.edu",
+      "collaborators": [],
+      "description": "- social studies\n- environmental studies",
+      "attachments": [],
+      "type": "education",
+      "degree": "Summer Exchange Programme",
+      "school": "University of California, Los Angeles",
+      "location": "Los Angeles, the United States"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "zBjDBR4QeJ1p8uxtWEfN",
+      "year": "2022",
+      "heading": "Notion Essential Badge from Notion HQ",
+      "url": "https://certifications.notion.site/Notion-Essentials-Badge-3dc79ca1aae24f9a81e7a1e2ab74f5de",
+      "collaborators": [],
+      "description": "The Notion essentials badge recognizes proficiency across all Notion features. The test includes everything on Notion from basic text editing to databases and formulas and has a pass rate of 70%.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1000,
+          "height": 1000,
+          "url": "/content/media/Notion-Essential-Badge-from-Notion-HQ-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1000,
+          "height": 1000,
+          "url": "/content/media/Notion-Essential-Badge-from-Notion-HQ-2.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Notion Essential Badge",
+      "organization": "Notion HQ"
+    },
+    {
+      "id": "TCwHmgZ5sqhuONcMe2PY",
+      "year": "2021",
+      "heading": "Certified Scrum Master from Scrum Alliance",
+      "url": null,
+      "collaborators": [],
+      "description": "The official credential that recognises competency in Scrum project management principles.\n\nCredential ID: 1326824",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 301,
+          "height": 301,
+          "url": "/content/media/Certified-Scrum-Master-from-Scrum-Alliance.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Certified Scrum Master",
+      "organization": "Scrum Alliance"
+    },
+    {
+      "id": "2teP4OYAsv5bO3AYjaBo",
+      "year": "2019",
+      "heading": "Apple Teacher from Apple",
+      "url": "https://education.apple.com/en/community/apple-groups/apple-teacher",
+      "collaborators": [],
+      "description": "The Apple Teacher Certification Program is a professional development program designed to help educators learn how to use Apple products in their classrooms.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1539,
+          "height": 570,
+          "url": "/content/media/Apple-Teacher-from-Apple.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Apple Teacher",
+      "organization": "Apple"
+    }
+  ],
+  "contact": [
+    {
+      "id": "oqMWTNIKagdMsogTst4X",
+      "platform": "Email",
+      "handle": "steve@imwiththou.com",
+      "url": "mailto:steve@imwiththou.com"
+    },
+    {
+      "id": "nPR1weEMLmGu19h3to6I",
+      "platform": "LinkedIn",
+      "handle": "imwiththou",
+      "url": "https://linkedin.com/in/imwiththou"
+    },
+    {
+      "id": "noA4qjD9spBghcSIcWKa",
+      "platform": "Blog",
+      "handle": "A space for brain dump",
+      "url": "https://blog.imwiththou.com/"
+    },
+    {
+      "id": "vzNia9YaRaieZIYDlmK2",
+      "platform": "Mastodon",
+      "handle": "@imwiththou@c.im",
+      "url": "https://c.im/@imwiththou"
+    },
+    {
+      "id": "iM21aGTRm9xf96j6v0ue",
+      "platform": "Are.na",
+      "handle": "steve-w",
+      "url": "https://are.na/steve-w"
+    },
+    {
+      "id": "oQuvNpxtPMYeKcmsO56A",
+      "platform": "Figma",
+      "handle": "imwiththou",
+      "url": "https://figma.com/@imwiththou"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "0RmxenVminkWJsBsz36Q",
+          "year": "2024",
+          "heading": "OCBC Design System at OCBC Bank",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "project",
+          "title": "OCBC Design System",
+          "company": "OCBC Bank"
+        },
+        {
+          "id": "WO90bYJeRldQ7FHmbeAe",
+          "year": "2023",
+          "heading": "United Design System at UOB",
+          "url": null,
+          "collaborators": [
+            {
+              "displayName": "Tien Vi",
+              "profilePhoto": "/content/collaborators/tien.jpg",
+              "profileURL": "https://read.cv/tien"
+            },
+            {
+              "displayName": "Natasha",
+              "profilePhoto": null,
+              "profileURL": "https://read.cv/knaat"
+            }
+          ],
+          "description": "We are proud to introduce the United Design System (UDS), a design system that unifies and harmonises the user experience across all UOB digital platforms. UDS is the result of the Project Unity initiative that we launched in 2021, which aimed to consolidate and streamline seven different design systems that were used for various regions and projects. UDS is not just a collection of UI components, but a comprehensive product that guides our design principles, processes and best practices. UDS has gone through several iterations, starting from a basic MVP version in 2021 to a more refined and robust version nowadays. UDS is one of the most important piece of works from our UOB TMRW designOps team, as it enables us to deliver consistent, efficient and delightful digital banking experiences to our customers.",
+          "attachments": [],
+          "type": "project",
+          "title": "United Design System",
+          "company": "UOB"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "F4xZHQSDelSvQQA8vFeH",
+          "year": "Ongoing",
+          "heading": "Paper and Pain, Season 2",
+          "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+          "collaborators": [
+            {
+              "displayName": "Kristian Mikhel",
+              "profilePhoto": "/content/collaborators/kotsky.jpg",
+              "profileURL": "https://read.cv/kotsky"
+            }
+          ],
+          "description": "After months of planning and production, Paper and Pain is back with more design rants, plenty of interviews with fantastic people, and some unusual takes.\n\nMe and Kris may not be recording in our living rooms any longer, but our bond is as strong as ever, and so is our passion for good design and dedication to our craft. Our inspiration for this season comes from the ground, where our dearest colleagues, peers, friends battle burnout, lack of creativity, toxic work environment, and frustration. In this season, we wanted to inspire you to seek things that bring you joy, to encourage you to take brave steps and venture into the unknown, to remind you that you are not alone on this path.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 3000,
+              "url": "/content/media/Paper-and-Pain-Season-2.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Paper and Pain, Season 2",
+          "company": ""
+        },
+        {
+          "id": "nBvVH3xosBBSjRKQm3gK",
+          "year": "Ongoing",
+          "heading": "Design system field notes",
+          "url": "https://t.me/+1HJ5GO2IDzFlYWM1",
+          "collaborators": [],
+          "description": "Design system field notes is a Telegram public channel that serves as:\n\n* a repository for knowledge sharing\n\n* a space for idea generation and resource\n\n* a digital notebook contains almost anything related to design system",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Design system field notes",
+          "company": ""
+        },
+        {
+          "id": "0pcApXcMIQLJbmdNDdZQ",
+          "year": "2024",
+          "heading": "Paper Cuts by Paper and Pain",
+          "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+          "collaborators": [
+            {
+              "displayName": "Kristian Mikhel",
+              "profilePhoto": "/content/collaborators/kotsky.jpg",
+              "profileURL": "https://read.cv/kotsky"
+            }
+          ],
+          "description": "Following by our design podcast “[Paper and Pain](https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703)” debuted in 2023, we kicked off the second season with a bit collaboration from the founder of Singapore Product Design community, [Leonard Reese](https://www.linkedin.com/in/leonard-reese). This livestream happens on every other Monday at 8pm SGT on [Singapore Product Design discord server](https://discord.gg/zTuaqcRC?event=1221950983005929573).",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Paper Cuts by Paper and Pain",
+          "company": ""
+        },
+        {
+          "id": "n5GFdsxjBNrGZKNVITdO",
+          "year": "2023",
+          "heading": "A space for brain dump",
+          "url": "https://blog.imwiththou.com/",
+          "collaborators": [],
+          "description": "First time trying doing some front end developing with recent-acquired knowledge in next.js, Tailwind CSS and GIT system. It’s still pretty much on trials and errors but as a eager learner I’m quite passionate to see it’s getting better day by day.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 5000,
+              "height": 3750,
+              "url": "/content/media/A-space-for-brain-dump.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "A space for brain dump",
+          "company": ""
+        },
+        {
+          "id": "Idh5vEF1eMWkUXsfdgu9",
+          "year": "2023",
+          "heading": "Paper and Pain, Season 1",
+          "url": "https://podcasts.apple.com/sg/podcast/paper-and-pain/id1683076703",
+          "collaborators": [
+            {
+              "displayName": "Kristian Mikhel",
+              "profilePhoto": "/content/collaborators/kotsky.jpg",
+              "profileURL": "https://read.cv/kotsky"
+            }
+          ],
+          "description": "Paper and Pain is a podcast channel for product designers who want to learn more about the industry in Singapore, Southeast Asia and globally. Hosted by Steve and Kris, two product designers based in Singapore, the podcast covers topics such as design trends, challenges, opportunities, and best practices in the industry. Paper and Pain aims to inspire and empower designers to design better products for the world.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2500,
+              "height": 2500,
+              "url": "/content/media/Paper-and-Pain-Season-1.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Paper and Pain, Season 1",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "adnchZRtJJWqlXyohXC6",
+          "year": "2023",
+          "heading": "Featured Dwelling on Dwelling",
+          "url": "https://dwelling.love/p/193",
+          "collaborators": [],
+          "description": null,
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4451,
+              "height": 3338,
+              "url": "/content/media/Featured-Dwelling-on-Dwelling.jpg"
+            }
+          ],
+          "type": "feature",
+          "title": "Featured Dwelling",
+          "publisher": "Dwelling"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "yJpP6f6qrAafucJi5g02",
+          "year": "2023 — Now",
+          "heading": "Design System Manager, Asst. Vice President at OCBC Bank",
+          "url": "http://www.ocbc.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Design System Manager, Asst. Vice President",
+          "company": "OCBC Bank",
+          "location": "Singapore"
+        },
+        {
+          "id": "a3hy2bbdatEecDYexubR",
+          "year": "2020 — 2023",
+          "heading": "Product Designer at Aleph Labs",
+          "url": "http://www.aleph-labs.com",
+          "collaborators": [],
+          "description": "I collaborated with the UOB product team to design and deliver the UOB Mighty application, focusing on the design language system, customer onboarding, and Merchant Customer Loyalty Program. I conducted UX research and designed the service blueprint for staff-assisted customer onboarding journeys. Additionally, I facilitated design workshops with the country business team using various design thinking techniques, designed prototypes, and participated in usability testing. I also crafted components, tokens, and patterns to build the United Design System (UDS) for UOB TMRW app in multiple Southeast Asian regions.\n\n*Aleph Labs is part of AKQA Group: https://www.akqa.com/group/",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Aleph Labs",
+          "location": "Singapore"
+        },
+        {
+          "id": "GXa1HAfz8mLGHJTATxQu",
+          "year": "2020 — 2020",
+          "heading": "Product Designer at Shopee",
+          "url": "http://shopee.com",
+          "collaborators": [],
+          "description": "I led the product design process for an e-commerce platform serving local markets in South East Asia, Taiwan, and Brazil. I collaborated with various teams to design products from ideation to launch, developing clear and effective user interfaces to achieve product and business goals. I designed products systematically, evaluated work with data, and maintained visual and UX patterns for a consistent and intuitive experience.\n\nhttps://medium.com/shopee",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Shopee",
+          "location": "Singapore"
+        },
+        {
+          "id": "qpNfLWMWfgi1iucykLYF",
+          "year": "2016 — 2020",
+          "heading": "Process System Designing Engineer at Exyte",
+          "url": "https://www.exyte.net/",
+          "collaborators": [],
+          "description": "I designed manufacturing process systems for various pharmaceutical multinational corporations. I led a team in incorporating new technologies in building information modelling and virtual design and construction for an old project. I managed a 16-million industrial process system from its design to tender, construction, installation, and commissioning.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Process System Designing Engineer",
+          "company": "Exyte",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "ieqv9VAmC4psd37HODtj",
+          "year": "2023 — Now",
+          "heading": "Community Leader at Friends of Figma",
+          "url": "https://www.figma.com/@imwiththou",
+          "collaborators": [],
+          "description": "\"Friends of Figma\" is a community of users who are passionate about Figma, a popular design tool used by designers, developers, and product teams. As a community advocate, my role is to act as a liaison between the Figma team and the community, helping to build a vibrant and engaged community of users.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1600,
+              "url": "/content/media/Community-Leader-at-Friends-of-Figma-7.jpg"
+            }
+          ],
+          "type": "volunteering",
+          "title": "Community Leader",
+          "organization": "Friends of Figma",
+          "location": "Singapore"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "YvCLABLYEMmiMxe3lGMZ",
+          "year": "2012 — 2016",
+          "heading": "Bachelor of Engineering, Bioengineering at Nanyang Technological University",
+          "url": "http://www.ntu.edu.sg",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Engineering, Bioengineering",
+          "school": "Nanyang Technological University",
+          "location": "Singapore"
+        },
+        {
+          "id": "kM4yAeHnswFxjK82byhd",
+          "year": "2015 — 2015",
+          "heading": "Summer Exchange Programme at University of California, Los Angeles",
+          "url": "http://www.ucla.edu",
+          "collaborators": [],
+          "description": "- social studies\n- environmental studies",
+          "attachments": [],
+          "type": "education",
+          "degree": "Summer Exchange Programme",
+          "school": "University of California, Los Angeles",
+          "location": "Los Angeles, the United States"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "zBjDBR4QeJ1p8uxtWEfN",
+          "year": "2022",
+          "heading": "Notion Essential Badge from Notion HQ",
+          "url": "https://certifications.notion.site/Notion-Essentials-Badge-3dc79ca1aae24f9a81e7a1e2ab74f5de",
+          "collaborators": [],
+          "description": "The Notion essentials badge recognizes proficiency across all Notion features. The test includes everything on Notion from basic text editing to databases and formulas and has a pass rate of 70%.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1000,
+              "height": 1000,
+              "url": "/content/media/Notion-Essential-Badge-from-Notion-HQ-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1000,
+              "height": 1000,
+              "url": "/content/media/Notion-Essential-Badge-from-Notion-HQ-2.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Notion Essential Badge",
+          "organization": "Notion HQ"
+        },
+        {
+          "id": "TCwHmgZ5sqhuONcMe2PY",
+          "year": "2021",
+          "heading": "Certified Scrum Master from Scrum Alliance",
+          "url": null,
+          "collaborators": [],
+          "description": "The official credential that recognises competency in Scrum project management principles.\n\nCredential ID: 1326824",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 301,
+              "height": 301,
+              "url": "/content/media/Certified-Scrum-Master-from-Scrum-Alliance.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Certified Scrum Master",
+          "organization": "Scrum Alliance"
+        },
+        {
+          "id": "2teP4OYAsv5bO3AYjaBo",
+          "year": "2019",
+          "heading": "Apple Teacher from Apple",
+          "url": "https://education.apple.com/en/community/apple-groups/apple-teacher",
+          "collaborators": [],
+          "description": "The Apple Teacher Certification Program is a professional development program designed to help educators learn how to use Apple products in their classrooms.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1539,
+              "height": 570,
+              "url": "/content/media/Apple-Teacher-from-Apple.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Apple Teacher",
+          "organization": "Apple"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "4MoIwjaSUAATWr05P9KL",
+          "year": "2023",
+          "heading": "Experience design team logo hackathon from UOB Experience Design Team",
+          "url": null,
+          "collaborators": [
+            {
+              "displayName": "Bavani",
+              "profilePhoto": "/content/collaborators/bavanikathirvailu.jpg",
+              "profileURL": "https://read.cv/bavanikathirvailu"
+            },
+            {
+              "displayName": "golansa",
+              "profilePhoto": "/content/collaborators/oshki.jpg",
+              "profileURL": "https://read.cv/oshki"
+            },
+            {
+              "displayName": "Tien Vi",
+              "profilePhoto": "/content/collaborators/tien.jpg",
+              "profileURL": "https://read.cv/tien"
+            },
+            {
+              "displayName": "Natasha",
+              "profilePhoto": null,
+              "profileURL": "https://read.cv/knaat"
+            }
+          ],
+          "description": "In this 40-min design hackathon the team were tasked to create a logo and design for tumbler and tote bag that will be used for new joint onboarding gifts. The challenge about the task was not just time but also remote collaboration, as our design work were purely done with remote features by FigJam.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Experience-design-team-logo-hackathon-from-UOB-Experience-Design-Team-1.png"
+            },
+            {
+              "type": "image",
+              "width": 3000,
+              "height": 2000,
+              "url": "/content/media/Experience-design-team-logo-hackathon-from-UOB-Experience-Design-Team-2.png"
+            }
+          ],
+          "type": "award",
+          "title": "Experience design team logo hackathon",
+          "presenter": "UOB Experience Design Team"
+        },
+        {
+          "id": "Ar9OyMWocDtbH2Nyvktd",
+          "year": "2023",
+          "heading": "TMRW Design Challenge from UOB Design Team",
+          "url": null,
+          "collaborators": [
+            {
+              "displayName": "Tien Vi",
+              "profilePhoto": "/content/collaborators/tien.jpg",
+              "profileURL": "https://read.cv/tien"
+            }
+          ],
+          "description": "In a fun design challenge, our team made up with two other designers to brainstorm and prototype a loader animation for TMRW app in 20 minutes, winning the highest vote among eight teams and establishing the art direction for future interactions within the app.",
+          "attachments": [],
+          "type": "award",
+          "title": "TMRW Design Challenge",
+          "presenter": "UOB Design Team"
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "C86MTFDCuoWjmGv973vZ",
+          "year": "2023",
+          "heading": "How Composable Technology Can Reshape the Way We Think About Design in the Future, Medium",
+          "url": "https://medium.com/design-note/how-composable-technology-can-reshape-the-way-we-think-about-design-in-the-future-c924a2bba32c",
+          "collaborators": [],
+          "description": "Composable technology is an exciting trend that has the potential to transform how we create and use software in the future. It offers many advantages for businesses that want to stay ahead of the competition and deliver value to their customers.",
+          "attachments": [],
+          "type": "writing",
+          "title": "How Composable Technology Can Reshape the Way We Think About Design in the Future",
+          "publisher": "Medium"
+        },
+        {
+          "id": "aShaurSsJirkl7NgA9S5",
+          "year": "2021",
+          "heading": "Be Aware of Aesthetic-Usability Effect in User Research, Medium",
+          "url": "https://medium.com/aleph-universe/be-aware-of-aesthetic-usability-effect-in-user-research-ac4c93193089",
+          "collaborators": [],
+          "description": "The aesthetic-usability effect reveals how attractive design influences perceived ease of use, requiring careful consideration during user research to prevent masking usability issues while emphasizing the importance of incorporating humor and playfulness for an enjoyable user experience and increased engagement.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Be Aware of Aesthetic-Usability Effect in User Research",
+          "publisher": "Medium"
+        },
+        {
+          "id": "2iMvl5eRghP99k7S6DaW",
+          "year": "2021",
+          "heading": "ROI and UX Research: How can we measure it?, Medium",
+          "url": "https://medium.com/aleph-universe/roi-and-ux-research-how-can-we-measure-it-295b82b44eea",
+          "collaborators": [],
+          "description": "UX research, when executed effectively, can save costs and time while demonstrating business goals through various ROI aspects, such as impact, perception, and retention; maintaining records of past findings and issues is crucial, and ROI calculations should be considered estimates, not predictions.",
+          "attachments": [],
+          "type": "writing",
+          "title": "ROI and UX Research: How can we measure it?",
+          "publisher": "Medium"
+        },
+        {
+          "id": "iutV8uKTsFnflAbwQiTp",
+          "year": "2019",
+          "heading": "The Magic of Zero Inbox, Medium",
+          "url": "https://imwiththou.medium.com/the-magic-of-zero-inbox-c909ea780414",
+          "collaborators": [],
+          "description": "Trust this: a beautiful day is always ended with zero inbox.",
+          "attachments": [],
+          "type": "writing",
+          "title": "The Magic of Zero Inbox",
+          "publisher": "Medium"
+        },
+        {
+          "id": "DMTaRKSkSAztt2wPQwKB",
+          "year": "2019",
+          "heading": "Say Goodbye to Credit Cards, Medium",
+          "url": "https://imwiththou.medium.com/say-goodbye-to-credit-cards-18368f21bef7",
+          "collaborators": [],
+          "description": "Welcome to the new age of financial minimalism.",
+          "attachments": [],
+          "type": "writing",
+          "title": "Say Goodbye to Credit Cards",
+          "publisher": "Medium"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "oqMWTNIKagdMsogTst4X",
+          "platform": "Email",
+          "handle": "steve@imwiththou.com",
+          "url": "mailto:steve@imwiththou.com"
+        },
+        {
+          "id": "nPR1weEMLmGu19h3to6I",
+          "platform": "LinkedIn",
+          "handle": "imwiththou",
+          "url": "https://linkedin.com/in/imwiththou"
+        },
+        {
+          "id": "noA4qjD9spBghcSIcWKa",
+          "platform": "Blog",
+          "handle": "A space for brain dump",
+          "url": "https://blog.imwiththou.com/"
+        },
+        {
+          "id": "vzNia9YaRaieZIYDlmK2",
+          "platform": "Mastodon",
+          "handle": "@imwiththou@c.im",
+          "url": "https://c.im/@imwiththou"
+        },
+        {
+          "id": "iM21aGTRm9xf96j6v0ue",
+          "platform": "Are.na",
+          "handle": "steve-w",
+          "url": "https://are.na/steve-w"
+        },
+        {
+          "id": "oQuvNpxtPMYeKcmsO56A",
+          "platform": "Figma",
+          "handle": "imwiththou",
+          "url": "https://figma.com/@imwiththou"
+        }
+      ]
+    }
+  ]
+}
