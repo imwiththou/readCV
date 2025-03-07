@@ -567,7 +567,13 @@
       "platform": "Bluesky",
       "handle": "@stevewang",
       "url": "https://bsky.app/profile/stevewang.bsky.social"
-    }
+    },
+    {
+      "id": "oqMWTNIKagdMsogTst4X",
+      "platform": "Retro",
+      "handle": "@stevie",
+      "url": "https://retro.app/u/stevie"
+    },
   ],
   "allCollections": [
     {
@@ -1125,7 +1131,7 @@
         {
           "id": "oQuvNpxtPMYeKcmsO56A",
           "platform": "Figma",
-          "handle": "imwiththou",
+          "handle": "@imwiththou",
           "url": "https://figma.com/@imwiththou"
         },
         {
@@ -1133,7 +1139,13 @@
           "platform": "Bluesky",
           "handle": "@stevewang",
           "url": "https://bsky.app/profile/stevewang.bsky.social"
-        }
+        },
+        {
+          "id": "oqMWTNIKagdMsogTst4X",
+          "platform": "Retro",
+          "handle": "@stevie",
+          "url": "https://retro.app/u/stevie"
+        },
       ]
     }
   ]
