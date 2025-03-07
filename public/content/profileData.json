@@ -573,7 +573,7 @@
       "platform": "Retro",
       "handle": "@stevie",
       "url": "https://retro.app/u/stevie"
-    },
+    }
   ],
   "allCollections": [
     {
@@ -1145,7 +1145,7 @@
           "platform": "Retro",
           "handle": "@stevie",
           "url": "https://retro.app/u/stevie"
-        },
+        }
       ]
     }
   ]
