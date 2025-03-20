@@ -573,6 +573,12 @@
       "platform": "Retro",
       "handle": "@stevie",
       "url": "https://retro.app/u/stevie"
+    },
+    {
+      "id": "0pcApXcMIQLJbmdNDdZQ",
+      "platform":"Oku Book Club",
+      "handle": "@imwiththou",
+      "url": "https://oku.club/@imwiththou"
     }
   ],
   "allCollections": [
@@ -1145,6 +1151,12 @@
           "platform": "Retro",
           "handle": "@stevie",
           "url": "https://retro.app/u/stevie"
+        },
+        {
+          "id": "0pcApXcMIQLJbmdNDdZQ",
+          "platform": "Oku Book Club",
+          "handle": "@imwiththou",
+          "url": "https://oku.club/user/imwiththou"
         }
       ]
     }
