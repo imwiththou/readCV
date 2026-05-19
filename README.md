@@ -1,4 +1,4 @@
-# readCV
+# readCV archive
 
 A modern, minimalist portfolio and CV website built with Next.js. Showcases your projects, experience, writing, and professional achievements with a clean, responsive design.
 
