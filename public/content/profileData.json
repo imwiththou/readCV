@@ -37,7 +37,18 @@
       "year": "2024",
       "heading": "OCBC Design System at OCBC Bank",
       "url": null,
-      "collaborators": [],
+      "collaborators": [
+        {
+          "displayName": "Jonathan Yap",
+          "profilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQGxo6F6D3-rMw/profile-displayphoto-scale_400_400/B56ZnRxIPZJ4Ag-/0/1760160942569?e=1780531200&v=beta&t=XSMmdEKuX1tMBhhNweAVRm077p3xtjUj0AbmWKic_9E",
+          "profileURL": "https://www.linkedin.com/in/yapjonathan12/"
+        },
+        {
+          "displayName": "Lynette Lee",
+          "profilePhoto": "https://media.licdn.com/dms/image/v2/D5603AQGk8tpvNU1BXg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714567011527?e=1780531200&v=beta&t=WjD2rVcJKk01E5qtVrBb5C_ajLi1udUB_pOq4cvxfDk",
+          "profileURL": "https://www.linkedin.com/in/lynette-lee-22a3b342/"
+        }
+      ],
       "description": "We are spearheading the consolidation and maturation of our cross-entity design language systems across Bank of Singapore, OCBC Consumer Financial Services and Group Wholesale Banking as the Contnet and Design Enablement (CDE) team at OCBC Bank. Our work transcends tactical component management to architect institutional intent, driving a strategic shift towards long-term asset ownership and scaling content quality through evidence-based processes and AI. By championing a philosophy of restraint and accessibility, we are actively re-engineering our design operations to ensure user safety and system integrity, transforming the CDE function into a proactive strategic partner that prioritises long-term mastery and cross-entity cost-efficiency over reactive throughput.",
       "attachments": [],
       "type": "project",
