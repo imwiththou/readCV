@@ -2,6 +2,21 @@
 
 A modern, minimalist portfolio and CV website built with Next.js. Showcases your projects, experience, writing, and professional achievements with a clean, responsive design.
 
+## About Read.cv
+
+**readCV** is a community-driven archive and personal interpretation of [Read.cv](https://read.cv/), a beautifully crafted "show don't tell" professional network created by [Andy Chung](https://andychung.me/) and his small team from 2020 to 2025.
+
+Read.cv was a niche but vibrant community for designers and developers—a space where creative professionals could build stunning portfolios, showcase their work, and make meaningful connections with like-minded creatives. It embodied thoughtful design principles and celebrated the intersection of design, engineering, and creativity.
+
+In January 2025, Read.cv was acquired by [Perplexity AI](https://www.perplexity.ai/), marking the end of an era for the independent platform. Rather than let the spirit and aesthetic of Read.cv fade away, this project reimagines it as an open-source, self-hosted portfolio platform—allowing designers and developers to build their own beautiful digital archives inspired by Read.cv's elegant approach to professional presentation.
+
+This project stands as a tribute to:
+- **Andy Chung's** vision for thoughtful, human-centered design in professional networking
+- The talented community that made Read.cv special
+- The belief that your portfolio should be as beautiful and intentional as the work it showcases
+
+Whether you're creating your own digital legacy or building on the Read.cv inspiration, I hope this project captures some of that magic.
+
 ## Features
 
 - 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
