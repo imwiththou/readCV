@@ -131,3 +131,139 @@
     flex-direction: column;
   }
 }
+
+/* Print styles */
+@media print {
+  .profile {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 20px 0;
+  }
+
+  .profileHeader {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    margin-bottom: 16px;
+    page-break-after: avoid;
+  }
+
+  .profileHeader h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .profilePhoto {
+    display: none;
+  }
+
+  .profileInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .byline {
+    font-size: 12px;
+    color: #333;
+  }
+
+  .website {
+    font-size: 11px;
+    color: #666;
+  }
+
+  .profileSection {
+    margin: 12px 0;
+    page-break-inside: avoid;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .profileSection:first-of-type {
+    margin: 8px 0;
+  }
+
+  .profileSection h3 {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 0 8px 0;
+    color: #000;
+    page-break-after: avoid;
+  }
+
+  .experiences {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 0;
+  }
+
+  .experience {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    page-break-inside: avoid;
+  }
+
+  .year {
+    font-size: 11px;
+    color: #666;
+    flex-shrink: 0;
+    width: 70px;
+    font-weight: 500;
+  }
+
+  .year::before {
+    content: "0000 — 0000";
+    visibility: hidden;
+  }
+
+  .description {
+    font-size: 11px;
+    color: #333;
+    line-height: 1.4;
+    margin: 0;
+  }
+
+  .description p {
+    margin: 0 0 4px 0;
+  }
+
+  .description p a {
+    border: none;
+    text-decoration: underline;
+  }
+
+  .contacts {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin: 0;
+  }
+
+  .contacts a {
+    font-size: 11px;
+    color: #000;
+  }
+
+  .linkArrow {
+    display: none;
+  }
+
+  .title {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0 0 2px 0;
+  }
+
+  .location {
+    font-size: 11px;
+    color: #333;
+    margin: 0 0 4px 0;
+  }
+}

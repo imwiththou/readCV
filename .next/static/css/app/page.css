@@ -1,0 +1,561 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./app/Scrollbar.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.Scrollbar_track__5aLfq {
+  width: 100%;
+  height: 2px;
+  border-radius: 2px;
+  background-color: var(--wash2);
+  overflow: hidden;
+  position: relative;
+  transform: translateX(0);
+}
+
+.Scrollbar_bar__c_LRn {
+  min-width: 50px;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  border-radius: 2px;
+  background-color: #ccc;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./app/Lightbox.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.Lightbox_lightbox__2ZEiD {
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+}
+
+.Lightbox_carousel__tGKE8 {
+  display: grid;
+  position: absolute;
+  inset: 0px;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.Lightbox_lightboxImage__SSI3b {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  padding: 48px 24px;
+  width: 100dvw;
+  height: 100dvh;
+}
+
+.Lightbox_lightboxInner__f919P {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Lightbox_imageWrap__dpsQ2 {
+  width: 100%;
+  height: auto;
+  border-radius: 24px;
+  overflow: hidden;
+  position: relative;
+}
+
+.Lightbox_imageWrap__dpsQ2::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  border: 1px solid var(--transparent-border);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.Lightbox_imageWrap__dpsQ2 img,
+.Lightbox_imageWrap__dpsQ2 video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.Lightbox_dots__n7FQa {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  column-gap: 6px;
+  z-index: 10;
+}
+
+.Lightbox_pagerDot__p7wEn {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: var(--grey1);
+  opacity: 0.1;
+}
+
+.Lightbox_pagerDot__p7wEn[data-active="true"] {
+  opacity: 0.5;
+}
+
+.Lightbox_navigation__uOquH {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  z-index: 1;
+}
+
+.Lightbox_navigation__uOquH button {
+  width: 50%;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.Lightbox_navigation__uOquH button.Lightbox_next__xIyJp {
+  cursor: e-resize;
+}
+
+.Lightbox_navigation__uOquH button.Lightbox_prev__mPWSw {
+  cursor: w-resize;
+}
+
+.Lightbox_backdrop__jipJk {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  background-color: var(--background);
+  cursor: pointer;
+}
+
+.Lightbox_close__aLcSw {
+  position: absolute;
+  z-index: 1;
+  width: 24px;
+  height: 24px;
+  border-radius: 16px;
+  border: none;
+  background-color: var(--wash2);
+  top: 12px;
+  right: 12px;
+  cursor: pointer;
+}
+
+.Lightbox_close__aLcSw::after,
+.Lightbox_close__aLcSw::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 11px;
+  background-color: var(--grey3);
+  left: 50%;
+  top: 50%;
+  border-radius: 1px;
+}
+
+.Lightbox_close__aLcSw::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.Lightbox_close__aLcSw::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.Lightbox_lightbox__2ZEiD[data-mobile="true"] .Lightbox_carouselScroll__34NmK {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: scroll;
+  scroll-width: none;
+  scroll-snap-type: x mandatory;
+}
+
+.Lightbox_lightbox__2ZEiD[data-mobile="true"] .Lightbox_carouselScroll__34NmK::-webkit-scrollbar {
+  display: none;
+}
+
+.Lightbox_lightbox__2ZEiD[data-mobile="true"] .Lightbox_carousel__tGKE8 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.Lightbox_lightbox__2ZEiD[data-mobile="true"] .Lightbox_lightboxImage__SSI3b {
+  flex-shrink: 0;
+  scroll-snap-align: center;
+  scroll-snap-stop: normal;
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./app/Attachments.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+.Attachments_attachments__9iWjP {
+  margin-top: 12px;
+  width: 100%;
+  position: relative;
+}
+
+.Attachments_scrollableArea__BdwpE {
+  position: absolute;
+  inset: 0;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.Attachments_scrollableArea__BdwpE::-webkit-scrollbar {
+  display: none;
+}
+
+.Attachments_images__21Ey4 {
+  display: flex;
+  column-gap: 8px;
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  min-width: 100%;
+}
+
+.Attachments_media__jpQPL {
+  background-color: var(--wash2);
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+.Attachments_media__jpQPL img,
+.Attachments_media__jpQPL video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Attachments_media__jpQPL::after {
+  position: absolute;
+  inset: 0;
+  content: '';
+  border: 1px solid var(--transparentBorder);
+  border-radius: inherit;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.Attachments_media__jpQPL:active {
+  cursor: -webkit-grabbing;
+}
+
+@media only screen and (max-width: 480px) {
+  .Attachments_scrollableArea__BdwpE {
+    position: absolute;
+    left: -40px;
+    right: -24px;
+  }
+
+  .Attachments_scrollableArea__BdwpE .Attachments_images__21Ey4 > div:first-child {
+    margin-left: 40px;
+  }
+
+  .Attachments_scrollableArea__BdwpE .Attachments_images__21Ey4 > div:last-child {
+    margin-right: 24px;
+  }
+
+  .Attachments_scrollableArea__BdwpE::-webkit-scrollbar-track {
+    margin-left: 40px;
+    margin-right: 24px;
+  }
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+.page_page__556_G {
+  padding: 0 24px;
+}
+
+@media print {
+  .page_page__556_G {
+    padding: 0;
+    margin: 0;
+  }
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[5].use[3]!./app/Profile.module.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************/
+.Profile_profile__UL_5P {
+  width: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+  padding: clamp(24px, calc((100vw - 540px) / 2), 72px) 0;
+}
+
+.Profile_profileHeader__G7z7R {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  column-gap: 16px;
+}
+
+.Profile_profileHeader__G7z7R h1 {
+  font-size: 20px;
+  font-weight: 350;
+}
+
+.Profile_byline__s43E5 {
+  color: var(--grey2);
+}
+
+.Profile_profilePhoto___NVff {
+  width: 92px;
+  height: 92px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background-color: var(--wash2);
+  overflow: hidden;
+}
+
+.Profile_profilePhoto___NVff img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Profile_profileSection___hycX:first-of-type {
+  margin: 36px 0;
+}
+
+.Profile_profileSection___hycX {
+  margin: 60px 0;
+}
+
+.Profile_profileSection___hycX h3 {
+  font-size: var(--font-size);
+  font-weight: normal;
+  margin-bottom: calc((var(--font-size) * var(--line-height)) / 2);
+}
+
+.Profile_experiences__Z2lAW {
+  display: flex;
+  flex-direction: column;
+  row-gap: 36px;
+  margin-top: 24px;
+}
+
+.Profile_contacts__TQmml {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  margin-top: 24px;
+}
+
+.Profile_experience__8pQJc {
+  display: flex;
+  flex-direction: row;
+  column-gap: 36px;
+}
+
+.Profile_description__OMT9q {
+  color: var(--grey2);
+  display: flex;
+  row-gap: calc((var(--font-size) * var(--line-height)) / 2);
+  flex-direction: column;
+}
+
+.Profile_description__OMT9q p a {
+  border-bottom: 1px solid var(--wash1);
+}
+
+.Profile_year__KzJ4a {
+  color: var(--grey3);
+  font-feature-settings: "tnum";
+  font-variant-numeric: tabular-nums;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.Profile_year__KzJ4a::before {
+  content: "0000 — 0000";
+  visibility: hidden;
+}
+
+.Profile_year__KzJ4a span {
+  position: absolute;
+  left: 0;
+  white-space: nowrap;
+}
+
+.Profile_title__DhufJ a:hover {
+  border-bottom: 1px solid;
+}
+
+.Profile_linkArrow__Kwzq5 {
+  white-space: nowrap;
+}
+
+.Profile_linkArrow__Kwzq5 svg {
+  margin-left: 2px;
+}
+
+.Profile_location__j4kBh {
+  color: var(--grey2);
+}
+
+.Profile_location__j4kBh ~ .Profile_description__OMT9q {
+  margin-top: calc((var(--font-size) * var(--line-height)) / 2);
+}
+
+@media (max-width: 480px) {
+  
+  .Profile_about__YfjU6 .Profile_description__OMT9q,
+  .Profile_experiences__Z2lAW,
+  .Profile_contacts__TQmml {
+    margin-left: 16px;
+  }
+
+  .Profile_experience__8pQJc {
+    flex-direction: column;
+  }
+}
+
+/* Print styles */
+@media print {
+  .Profile_profile__UL_5P {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 20px 0;
+  }
+
+  .Profile_profileHeader__G7z7R {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    margin-bottom: 16px;
+    page-break-after: avoid;
+  }
+
+  .Profile_profileHeader__G7z7R h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .Profile_profilePhoto___NVff {
+    display: none;
+  }
+
+  .Profile_profileInfo__Z7jpC {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .Profile_byline__s43E5 {
+    font-size: 12px;
+    color: #333;
+  }
+
+  .Profile_website__7ZQq7 {
+    font-size: 11px;
+    color: #666;
+  }
+
+  .Profile_profileSection___hycX {
+    margin: 12px 0;
+    page-break-inside: avoid;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Profile_profileSection___hycX:first-of-type {
+    margin: 8px 0;
+  }
+
+  .Profile_profileSection___hycX h3 {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin: 0 0 8px 0;
+    color: #000;
+    page-break-after: avoid;
+  }
+
+  .Profile_experiences__Z2lAW {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 0;
+  }
+
+  .Profile_experience__8pQJc {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    page-break-inside: avoid;
+  }
+
+  .Profile_year__KzJ4a {
+    font-size: 11px;
+    color: #666;
+    flex-shrink: 0;
+    width: 70px;
+    font-weight: 500;
+  }
+
+  .Profile_year__KzJ4a::before {
+    content: "0000 — 0000";
+    visibility: hidden;
+  }
+
+  .Profile_description__OMT9q {
+    font-size: 11px;
+    color: #333;
+    line-height: 1.4;
+    margin: 0;
+  }
+
+  .Profile_description__OMT9q p {
+    margin: 0 0 4px 0;
+  }
+
+  .Profile_description__OMT9q p a {
+    border: none;
+    text-decoration: underline;
+  }
+
+  .Profile_contacts__TQmml {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin: 0;
+  }
+
+  .Profile_contacts__TQmml a {
+    font-size: 11px;
+    color: #000;
+  }
+
+  .Profile_linkArrow__Kwzq5 {
+    display: none;
+  }
+
+  .Profile_title__DhufJ {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0 0 2px 0;
+  }
+
+  .Profile_location__j4kBh {
+    font-size: 11px;
+    color: #333;
+    margin: 0 0 4px 0;
+  }
+}
